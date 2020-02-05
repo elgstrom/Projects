@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  First App
+//  Age app
 //
 //  Created by Carl Elgström  on 2020-02-05.
 //  Copyright © 2020 Carl Elgström . All rights reserved.
