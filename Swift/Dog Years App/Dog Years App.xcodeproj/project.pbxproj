@@ -15,6 +15,7 @@
 		84B6D43423EB3C140070B6C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84B6D43223EB3C140070B6C5 /* LaunchScreen.storyboard */; };
 		84B6D43F23EB3C140070B6C5 /* Dog_Years_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B6D43E23EB3C140070B6C5 /* Dog_Years_AppTests.swift */; };
 		84B6D44A23EB3C140070B6C5 /* Dog_Years_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B6D44923EB3C140070B6C5 /* Dog_Years_AppUITests.swift */; };
+		84B6D45823EB5AE00070B6C5 /* golden-retriever-puppy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84B6D45723EB5ADF0070B6C5 /* golden-retriever-puppy.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		84B6D44523EB3C140070B6C5 /* Dog Years AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Dog Years AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84B6D44923EB3C140070B6C5 /* Dog_Years_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dog_Years_AppUITests.swift; sourceTree = "<group>"; };
 		84B6D44B23EB3C140070B6C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84B6D45723EB5ADF0070B6C5 /* golden-retriever-puppy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "golden-retriever-puppy.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				84B6D43023EB3C140070B6C5 /* Assets.xcassets */,
 				84B6D43223EB3C140070B6C5 /* LaunchScreen.storyboard */,
 				84B6D43523EB3C140070B6C5 /* Info.plist */,
+				84B6D45723EB5ADF0070B6C5 /* golden-retriever-puppy.jpg */,
 			);
 			path = "Dog Years App";
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 			files = (
 				84B6D43423EB3C140070B6C5 /* LaunchScreen.storyboard in Resources */,
 				84B6D43123EB3C140070B6C5 /* Assets.xcassets in Resources */,
+				84B6D45823EB5AE00070B6C5 /* golden-retriever-puppy.jpg in Resources */,
 				84B6D42F23EB3C130070B6C5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
