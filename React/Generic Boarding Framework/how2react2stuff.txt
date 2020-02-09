@@ -1,0 +1,16 @@
+https://react-bootstrap.netlify.com/components/overlays/
+
+for drag and drop guide
+https://blog.logrocket.com/drag-and-drop-in-react/
+
+
+npm install // första gången för att hämta dependencies
+npm start // för att starta react appen
+
+setState (lost update)
+asdf = 1
+queued at the same time:
+  setstate(asdf+1) -> setstate(2) -> asdf = 2
+  setstate(asdf+1) -> setstate(2) -> asdf = 2 (should've been 3)
+  
+use callback instead..
